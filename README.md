@@ -14,8 +14,6 @@
 
 指定存放.md的文件夾，會於文件夾中自動建立.md的同名文件夾，用來存放下載圖片。
 
-> Usage: python3 markdown.py "dir-path"
-
 ![](13539817-a15f5660c23ad5d5.png)       
 ![](13539817-2d02798b6df6b261.png)
 
